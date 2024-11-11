@@ -137,14 +137,64 @@ namespace HelloWorld
             // {
             //     Console.WriteLine(false);
             // }
-            
+
             // 11
-            Console.WriteLine("satr: ");
-            var text = Console.ReadLine();
-            if (text.StartsWith("bread") && text.EndsWith("bread"))
-            {
-                
-            }
+            // Console.Write("satr: ");
+            // var text = Console.ReadLine();
+            // var count = 0;
+            // var locationfrist = text.IndexOf("bread");
+            // var locationlast = text.LastIndexOf("bread");
+            // for (int i = 0; i < text.Length; i++)
+            // {
+            //     var bread = text.Substring(i, 5);
+            //     if (bread == "bread")
+            //     {
+            //         i += 5;
+            //         ++count; // uzbekistan007academy000
+            //         // 01234567890123456789
+            //     }
+            //
+            //     if (count > 1)
+            //     {
+            //         var wordedit = text.Substring(locationfrist + 5, text.Length - locationfrist - 5);
+            //         Console.WriteLine(wordedit);
+            //     }
+            //     else
+            //     {
+            //         Console.WriteLine("");
+            //     }
+            // }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
             
             
